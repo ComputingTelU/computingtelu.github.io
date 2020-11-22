@@ -7,6 +7,8 @@ html, body {
 
 html { font-family: 'Fira Sans', sans-serif; }
 
+a { text-decoration: none; }
+
 .content { 
   padding: 64px;
 }
